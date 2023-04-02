@@ -7,4 +7,6 @@ An oversampling option with different factors has also been implemented to reduc
 ## Future Improvements  
 In the future, the plugin will provide ADAA method to more effectively reduce aliasing.
 
-![image](https://user-images.githubusercontent.com/)
+
+## Image of the plugin
+![image](https://user-images.githubusercontent.com/72158380/229355801-d57b6a67-2798-4363-b4b6-6eb65bfe22ea.png)

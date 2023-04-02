@@ -1,7 +1,7 @@
 # StaticClipper
 
 ## Description 
-A simple plugin in VST3 format for a distortion effect, based on different whaveshaping functions. 
+A simple plugin in VST3 format for a distortion effect, based on different whaveshaping functions. This plugin have been coded using the JUCE Framework.
 An oversampling option with different factors has also been implemented to reduce aliasing. 
 
 ## Future Improvements  

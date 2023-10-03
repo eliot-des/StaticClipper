@@ -6,7 +6,7 @@ This plugin was coded using the JUCE Framework.
 An oversampling option with different factors has also been implemented to reduce aliasing. 
 
 ## Future Improvements  
-In the future, the plugin will provide ADAA method to more effectively reduce aliasing.
+In the future, the plugin will provide ADAA method to more effectively reduce aliasing, with a low computational cost.
 
 An option to add some coloration to the sound before the waveshaping stage will also be provided, trying to simulate the sound of some active amplification and filtering stage of famous distortion pedals.
 

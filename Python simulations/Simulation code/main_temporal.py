@@ -4,13 +4,6 @@ Created on Wed May 17 16:14:50 2023
 
 @author: eliot
 """
-import numpy as np
-import matplotlib.pyplot as plt
-from forward_methods import outputFE
-from backward_trapezoidal_methods import outputBE, outputTR 
-from rk4_methods import outputRK4
-from whaveshaping_methods import output_static
-
 
 import numpy as np
 import matplotlib.pyplot as plt
@@ -19,7 +12,6 @@ from forward_methods import outputFE
 from rk4_methods import outputRK4
 from backward_trapezoidal_methods import outputBE, outputTR 
 from whaveshaping_methods import output_static
-
 
 #Boss DS1 with 1N4148 diodes
 #circuit_param = np.array([2000, 0.01*10**-6, 2.52*10**-9, 25.852e-3, 1.752]) #[R, C, Is, Vt, n]

@@ -12,3 +12,7 @@ An option to add some coloration to the sound before the waveshaping stage will 
 
 ## Image of the plugin
 ![image](https://user-images.githubusercontent.com/72158380/229355801-d57b6a67-2798-4363-b4b6-6eb65bfe22ea.png)
+
+## Notes 
+
+The GUI section of the plugin, for which the code is written in the "PluginEditor.cpp" file is not "well written".
